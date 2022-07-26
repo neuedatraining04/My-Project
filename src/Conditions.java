@@ -11,7 +11,7 @@ public class Conditions {
                 System.out.println("Good");
                 break;
             default:
-                System.out.println("Hmmm");
+                System.out.println("Hmmmmm");
                 break;
         }
     }
